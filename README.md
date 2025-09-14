@@ -7,9 +7,9 @@ A classic arcade-style space shooter built with Python and the Pygame library. T
 ## Features ✨
 * Player-controlled spaceship with left/right movement and firing capabilities.
 * A fleet of aliens that moves across and down the screen.
-* Scorekeeping, including a high-score display that persists across games.
+* Scorekeeping, including a high-score(mid-top) display that persists across games (top-right).
 * Increasing difficulty: the game speeds up as you clear levels.
-* A lives system to track the player's remaining ships.
+* A lives system to track the player's remaining ships (top-left).
 
 ---
 
