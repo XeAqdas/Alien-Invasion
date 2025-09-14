@@ -36,5 +36,6 @@ To run this game on your local machine, follow these steps:
 
 ## Screenshots 📸
 
-<img width="1600" height="900" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/7ad52374-df02-4f8f-9545-ea00883fcfc7" />
+
+<img width="1600" height="900" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/33e8528e-080e-4590-97f2-5d89cf030bf8" />
 
