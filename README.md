@@ -29,7 +29,7 @@ To run this game on your local machine, follow these steps:
     ```
 3.  Navigate to the project directory and run the main game file:
     ```bash
-    python alien_invasion.py
+    python main.py
     ```
 
 ---
